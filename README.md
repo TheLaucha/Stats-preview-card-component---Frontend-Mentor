@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://www.frontendmentor.io/solutions/nft-card-using-html-and-css-tpjW13yl-)
-- Live Site URL: [Link](https://thelaucha.github.io/NFT-Card---Frontend-Mentor/)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/stats-preview-card-component-a5qvbdVxu)
+- Live Site URL: [Link](https://thelaucha.github.io/Stats-preview-card-component---Frontend-Mentor/)
 
 ## My process
 
